@@ -98,11 +98,9 @@ The proprietary backend, including:
 is maintained in the private repository:
 🔒 **`geomathewjoseph/satellite-ai-simulator`**
 
-### Contact & Collaboration
-For commercial licensing, enterprise partnerships, or academic research:
-- **Lead Engineer**: [George Mathew Joseph](https://github.com/geomathewjoseph)
-- **GitHub**: [@geomathewjoseph](https://github.com/geomathewjoseph)
+### Project & Connect
+- **Geo Mathew Joseph** ([@geomathewjoseph](https://github.com/geomathewjoseph))
 
 ---
 
-*Copyright © 2026 George Mathew Joseph. All rights reserved.*
+*Copyright © 2026 Geo Mathew Joseph. All rights reserved.*
