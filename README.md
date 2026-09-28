@@ -4,7 +4,7 @@
 [![Edge AI](https://img.shields.io/badge/Payload-Edge%20AI%20YOLOv8-FFD700.svg?style=for-the-badge&logo=pytorch)](https://github.com/geomathewjoseph)
 [![Visualization](https://img.shields.io/badge/3D%20Engine-Three.js%20WebGL-black.svg?style=for-the-badge&logo=three.js)](https://github.com/geomathewjoseph)
 [![Telemetry](https://img.shields.io/badge/Telemetry-Real--Time%20WebSockets-brightgreen.svg?style=for-the-badge)](https://github.com/geomathewjoseph)
-[![Deployment](https://img.shields.io/badge/Live%20Demo-Vercel%20Edge-black.svg?style=for-the-badge&logo=vercel)](https://temporary-rushing-agate-gwgiuhi.vercel.app)
+[![Deployment](https://img.shields.io/badge/Live%20Demo-Render-46E3B7.svg?style=for-the-badge&logo=render)](https://satellite-ai-simulator.onrender.com)
 
 > **Public Architectural Showcase**: This repository presents the architecture, engineering telemetry, and visual mission operations interface for the **Satellite AI Simulator**. The numerical physics kernels and proprietary Edge AI pipelines are maintained under a private repository.
 
@@ -12,9 +12,9 @@
 
 ## 🌐 Live Mission Operations Demo
 
-Access the interactive mission control operations deck deployed on the Vercel Edge Network:
+Access the interactive mission control operations deck deployed on Render:
 
-🚀 **[Launch Live Mission Control](https://temporary-rushing-agate-gwgiuhi.vercel.app)**
+🚀 **[Launch Live Mission Control](https://satellite-ai-simulator.onrender.com)**
 
 ---
 
